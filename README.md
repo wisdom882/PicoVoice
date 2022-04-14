@@ -10,4 +10,8 @@ With this the user is slowly guided through a path with less distractions.
 I must say some of my commits have grammatical error, this is a mistake on my path, my apologies.
 I am 78% done with the project.
 
+I am in my last semester of my degree, I am studying Computer Science and Geography.
+I have been so busy with assignments and that is why I could not finish the project on time,
+but I will finish it this weekend.
+
 #
